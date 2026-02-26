@@ -2,6 +2,8 @@
 
 A full-stack link shortener built with **Next.js 15**, featuring a live analytics dashboard, persistent JSON storage, Recharts visualizations, and a dark editorial UI with Tailwind CSS.
 
+![Snip Dashboard](./snip.png)
+
 ---
 
 ## Table of Contents
